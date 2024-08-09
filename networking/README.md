@@ -23,3 +23,9 @@
 ## VPC endpoints
 
 ## Network ACLs
+
+## Security Groups
+
+## Elastic IPs
+
+## ENI (Elastic Network Interface)

@@ -1,18 +1,6 @@
-# AWS Fundamentals
+# Networking
 
-## IAM
-
-* Generating accesskey and secretkey
-* download and configure awscli
-* Creating a group, user and adding user to a group
-* policy
-* role
-* sts, assumerole
-* Managing multiple accounts
-
-## Networking
-
-### VPC and subnets
+## VPC and subnets
 
 * IP address
 * CIDR
@@ -22,16 +10,16 @@
 * private subnet
 * public subnet
 
-### Route tables
+## Route tables
 
-### Internet Gateway (IGW)
+## Internet Gateway (IGW)
 
-### NAT gateway
+## NAT gateway
 
-### VPC peering
+## VPC peering
 
-### VPC Transit Gateways
+## VPC Transit Gateways
 
-### VPC endpoints
+## VPC endpoints
 
-### Network ACLs
+## Network ACLs

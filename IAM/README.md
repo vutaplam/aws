@@ -7,4 +7,8 @@
 * user
 * group
 * policy
+   * Action
+   * Effect
+   * Resource
+   * Principal
 * role

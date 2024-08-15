@@ -1,3 +1,5 @@
+* In this example we will deny a user from terminating or stopping the instance (i-02deb63ac80133786)
+
 ```json
 {
     "Version": "2012-10-17",
